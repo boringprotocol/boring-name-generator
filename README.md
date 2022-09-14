@@ -4,6 +4,8 @@ Generate boring names like *bullish-crocodile*, *sassy-bread*, *mature-dew-8239*
 
 Useful for object names, temp folders, passwords, project names, unique ids etc
 
+Used to create peer names for Motherbored nodes on the Boring Protocol network.  
+
 ## Install
 `npm install boring-name-generator --save`
 
