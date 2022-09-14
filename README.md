@@ -1,6 +1,6 @@
 # Boring Name Generator
 
-Generateing a boring, random, unique, heroku-like name for each motherbored. e.g. \"gnarly-yield-2913\
+Generateing a boring, random, unique, heroku-like name for each motherbored. e.g. "gnarly-yield-2913"
 
 Useful for object names, temp folders, group ids, unique ids etc... 
 
