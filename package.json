@@ -1,6 +1,6 @@
 {
   "name": "boring-name-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a random, unique, heroku-like name for your app/project/server etc. e.g. \"resonant-silence\"",
   "types": "src/generator.d.ts",
   "main": "src/generator.js",
