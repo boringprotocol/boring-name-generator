@@ -1,10 +1,8 @@
 # Boring Name Generator
 
-Generate boring names like *bullish-crocodile*, *sassy-bread*, *mature-dew-8239* to use wherever you need a random but memorable name.
+Generateing a boring, random, unique, heroku-like name for each motherbored. e.g. \"gnarly-yield-2913\
 
-Useful for object names, temp folders, passwords, project names, unique ids etc
-
-Used to create peer names for Motherbored nodes on the Boring Protocol network.  
+Useful for object names, temp folders, group ids, unique ids etc... 
 
 ## Install
 `npm install boring-name-generator --save`
