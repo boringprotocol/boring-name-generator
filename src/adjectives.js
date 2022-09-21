@@ -1,10 +1,11 @@
 module.exports =
   [ 
   'boring',
+	'based',
 	'private',
 	'secure',
   'abandoned',
-	'rugged', // hehe 
+	'rugged',
 	'paperhanded',
 	'altcoin',
   'abashed',
