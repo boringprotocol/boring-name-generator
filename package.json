@@ -1,6 +1,6 @@
 {
   "name": "boring-name-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generateing a random, unique, heroku-like name for the motherbored. e.g. \"gnarly-yield-2913\"",
   "types": "src/generator.d.ts",
   "main": "src/generator.js",
